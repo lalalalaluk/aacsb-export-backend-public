@@ -1,0 +1,14 @@
+Django
+psycopg2
+django-environ
+drf-yasg
+gunicorn
+django-cors-headers
+whitenoise
+djangorestframework
+markdown
+django-filter
+mssql-django
+pyodbc
+django-filter
+djangorestframework-simplejwt
